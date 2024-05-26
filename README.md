@@ -1,36 +1,92 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# MemoMind
 
-First, run the development server:
+![App Screenshot](https://i.ibb.co/Mc4sqyf/MemoMind.png)
+
+A brief description of what this project does and who it's for
+
+MemoMind is an AI-powered tool designed to revolutionize the way individuals and teams manage their note-taking. Utilizing advanced AI technologies, MemoMind offers features like real-time transcription, smart summarization, and intuitive search capabilities, making it an essential tool for students, professionals, and anyone looking to enhance their productivity.
+MemoMind tackles the challenges of inefficient manual note-taking and information overload by offering an AI-driven solution for real-time transcription, smart summarization, and intuitive search. This tool enhances productivity by streamlining the capture, management, and retrieval of information, making it ideal for students, professionals, and teams needing to handle large volumes of data efficiently.
+
+
+
+
+
+
+## Run Locally
+
+Clone the project
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+  git clone link(https or ssh)
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Go to the project directory
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+  cd MemoMind
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Install dependencies
 
-## Learn More
+```bash
+  npm install
+```
 
-To learn more about Next.js, take a look at the following resources:
+Start the project
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+  npm run dev
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Features
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Video transcription 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+  The MVP of our project that lets the user upload a video and get the corresponding description about the video saved as a note. Eg: a cooking video is transcipted and saved as a recipe note for the user.
+
+- Voice Notes
+  
+  The user can upload a voice recording or record their voice live and get a summarised note. Usecase - In a meeting for making note of Minutes of meeting. 
+
+- AI notebot
+
+  The user notes are analysed by the AI bot and it can help user with any Q/A related to the notes topic. This is a utility fetaure for usecase such as interviews or reports.
+
+- ChainGPT privacy front
+    
+  privacy centric solution to allow users to keep their confidential and silly notes private. It creates a proof of trust in the community.
+
+  
+
+
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/JcRnHty/Whats-App-Image-2024-05-26-at-14-47-28.jpg)
+
+![App Screenshot](https://i.ibb.co/6yFSX83/Whats-App-Image-2024-05-26-at-14-47-25-1.jpg)
+
+![App Screenshot](https://i.ibb.co/4g1MJkx/Whats-App-Image-2024-05-26-at-14-47-22.jpg)
+
+![App Screenshot](https://i.ibb.co/wyWd6yB/Whats-App-Image-2024-05-26-at-14-47-17.jpg)
+
+## Demo
+LINK
+
+## Deployment
+
+To deploy this project first install vercel into ur repo
+
+```bash
+  vercel deploy
+```
+
+
+## Authors
+
+- [@Rhythm-shahane](https://www.github.com/Rhythm-shahane)
+- [@Sidd2401](https://www.github.com/Sidd2401)
+- [@amit6537](https://www.github.com/amit6537)
+- [@Sidd2401](https://www.github.com/Sidd2401)
+
