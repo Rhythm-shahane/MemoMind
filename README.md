@@ -86,7 +86,7 @@ To deploy this project first install vercel into ur repo
 ## Authors
 
 - [@Rhythm-shahane](https://www.github.com/Rhythm-shahane)
-- [@Sidd2401](https://www.github.com/Sidd2401)
+- [@nirshr40](https://www.github.com/nirshr40)
 - [@amit6537](https://www.github.com/amit6537)
 - [@Sidd2401](https://www.github.com/Sidd2401)
 
