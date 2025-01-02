@@ -85,6 +85,8 @@ To deploy this project first install vercel into ur repo
 
 ## Authors
 
+Creators of MemoMind
+
 - [@Rhythm-shahane](https://www.github.com/Rhythm-shahane)
 - [@nirshr40](https://www.github.com/nirshr40)
 - [@amit6537](https://www.github.com/amit6537)
