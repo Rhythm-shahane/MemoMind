@@ -1,8 +1,6 @@
 
 # MemoMind
 
-![App Screenshot](https://i.ibb.co/Mc4sqyf/MemoMind.png)
-
 A brief description of what this project does and who it's for
 
 MemoMind is an AI-powered tool designed to revolutionize the way individuals and teams manage their note-taking. Utilizing advanced AI technologies, MemoMind offers features like real-time transcription, smart summarization, and intuitive search capabilities, making it an essential tool for students, professionals, and anyone looking to enhance their productivity.
