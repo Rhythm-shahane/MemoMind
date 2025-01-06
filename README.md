@@ -80,7 +80,7 @@ To deploy this project first install vercel into ur repo
 
 ## Authors
 
-Creators of MemoMind
+Creators of MemoMind Developing The Next Productivity Tool
 
 - [@Rhythm-shahane](https://www.github.com/Rhythm-shahane)
 - [@nirshr40](https://www.github.com/nirshr40)
